@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Pessoal - Luana da Silva Coelho</title>
+</head>
+<body>
+
+    <!-- 1. Cabeçalho (Header) -->
+    <header>
+        <h1>Bem-vindo à minha Página Pessoal</h1>
+        <p>Estudante de Informática para Internet no IF Sudeste MG.</p>
+    </header>
+
+    <!-- 4. Seção de Navegação (Nav) -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Início</a></li>
+            <li><a href="sobre.html">Sobre Mim</a></li>
+            <li><a href="https://github.com" target="_blank">Meu GitHub</a></li>
+        </ul>
+    </nav>
+
+    <!-- Conteúdo Principal -->
+    <main>
+        <!-- 2. Seção de Apresentação -->
+        <section>
+            <h2>Apresentação</h2>
+            <p>Olá! O meu nome é Luana. Sou apaixonada por Mecânica e agora por tecnologia. </p>
+            <img src="img/foto.jpg" alt="Foto de perfil de Luana" width="200">
+        </section>
+
+        <!-- 3. Seção de Hobbies ou Interesses -->
+        <section>
+            <h2>Meus Hobbies e Interesses</h2>
+            <ul>
+                <li> Adoro concertar as coisas que param de funcionar</li>
+                <li>Leitura de livros de romance e suspense</li>
+                <li>Praticar esportes e ouvir música</li>
+            </ul>
+        </section>
+    </main>
+
+    <!-- 5. Rodapé (Footer) -->
+    <footer>
+        <p>Desenvolvido por <strong>Luana</strong></p>
+        <p>
+            Contato: <a href="luanadasilvacoelho.lc@gmail.com"></a> | 
+            <a href="https://www.linkedin.com/in/luana-coelho-029588186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Meu LinkedIn</a>
+        </p>
+    </footer>
+
+</body>
+</html>
